@@ -69,3 +69,32 @@ h2 {
   margin-left: auto;
   margin-right: auto;
 }
+.interests {
+  display: flex;
+}
+.music {
+  float: left;
+  width: 45vw;
+  border: 1px solid black;
+  margin-right: 10px;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px lightgrey;
+}
+.hot-sauce {
+  float: left;
+  width: 30vw;
+  border: 1px solid black;
+  margin-right: 10px;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px lightgrey;
+}
+.magic-the-gathering {
+  float: left;
+  width: 20vw;
+  border: 1px solid black;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px lightgrey;
+}
+.interests h3 {
+  text-align: center;
+}
