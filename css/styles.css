@@ -62,4 +62,7 @@ h2 {
 .projects img {
   width: 28vw;
   border: 1px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
