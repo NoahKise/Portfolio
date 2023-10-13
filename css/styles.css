@@ -98,3 +98,7 @@ h2 {
 .interests h3 {
   text-align: center;
 }
+.interests p {
+  padding-left: 10px;
+  padding-right: 10px;
+}
