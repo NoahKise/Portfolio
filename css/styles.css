@@ -1,108 +1,138 @@
 .header img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border: 1px solid black;
-  border-radius: 50%;
-  width: 30vw;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	border-radius: 50%;
+	width: 30vw;
 }
+
 .header {
-  border-top: 3vw solid #5cfaff;
-  text-align: center;
-  font-family: didot, serif;
-  background: linear-gradient(180deg, #5cfaff 0%, white 100%);
+	border-top: 3vw solid #5cfaff;
+	text-align: center;
+	font-family: didot, serif;
+	background: linear-gradient(180deg, #5cfaff 0%, white 100%);
 }
+
 .about-me {
-  margin: 0 10vw 0 10vw;
-  background-color: lightgray;
-  box-shadow: 10px 10px 10px #5cfaff;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 20px;
-  padding-right: 20px;
-  border: 1px solid black;
+	margin: 0 10vw 0 10vw;
+	background-color: lightgray;
+	box-shadow: 10px 10px 10px #5cfaff;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: 1px solid black;
 }
+
 h2 {
-  font-family: didot, serif;
-  text-align: center;
-  text-decoration: underline;
+	font-family: didot, serif;
+	text-align: center;
+	text-decoration: underline;
 }
+
 .projects {
-  display: flex;
+	display: flex;
 }
+
 .project1 {
-  float: left;
-  width: 31vw;
-  border: 1px solid black;
-  margin-right: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  box-sizing: border-box;
-  box-shadow: 5px 5px 5px lightgrey;
+	float: left;
+	width: 32vw;
+	border: 1px solid black;
+	margin-right: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	box-sizing: border-box;
+	box-shadow: 5px 5px 5px lightgrey;
 }
+
 .project2 {
-  float: left;
-  width: 31vw;
-  border: 1px solid black;
-  margin-right: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  box-sizing: border-box;
-  box-shadow: 5px 5px 5px lightgrey;
+	float: left;
+	width: 32vw;
+	border: 1px solid black;
+	margin-right: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	box-sizing: border-box;
+	box-shadow: 5px 5px 5px lightgrey;
 }
+
 .project3 {
-  float: left;
-  width: 31vw;
-  border: 1px solid black;
-  padding-left: 10px;
-  padding-right: 10px;
-  box-sizing: border-box;
-  box-shadow: 5px 5px 5px lightgrey;
+	float: left;
+	width: 32vw;
+	border: 1px solid black;
+	padding-left: 10px;
+	padding-right: 10px;
+	box-sizing: border-box;
+	box-shadow: 5px 5px 5px lightgrey;
 }
+
 .projects h3 {
-  text-align: center;
+	text-align: center;
 }
+
 .projects img {
-  width: 28vw;
-  border: 1px solid black;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+	width: 28vw;
+	border: 1px solid black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 .interests {
-  display: flex;
+	display: flex;
 }
+
 .music {
-  float: left;
-  width: 45vw;
-  border: 1px solid black;
-  margin-right: 10px;
-  box-sizing: border-box;
-  box-shadow: 5px 5px 5px lightgrey;
+	float: left;
+	width: 45vw;
+	border: 1px solid black;
+	margin-right: 10px;
+	box-sizing: border-box;
+	box-shadow: 5px 5px 5px lightgrey;
 }
+
 .hot-sauce {
-  float: left;
-  width: 30vw;
-  border: 1px solid black;
-  margin-right: 10px;
-  box-sizing: border-box;
-  box-shadow: 5px 5px 5px lightgrey;
+	float: left;
+	width: 30vw;
+	border: 1px solid black;
+	margin-right: 10px;
+	box-sizing: border-box;
+	box-shadow: 5px 5px 5px lightgrey;
 }
+
 .magic-the-gathering {
-  float: left;
-  width: 20vw;
-  border: 1px solid black;
-  box-sizing: border-box;
-  box-shadow: 5px 5px 5px lightgrey;
+	float: left;
+	width: 20vw;
+	border: 1px solid black;
+	box-sizing: border-box;
+	box-shadow: 5px 5px 5px lightgrey;
 }
+
 .interests h3 {
-  text-align: center;
+	text-align: center;
 }
+
 .interests p {
-  padding-left: 10px;
-  padding-right: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
+
 h4 {
-  text-align: center;
-  text-decoration: underline;
+	text-align: center;
+	text-decoration: underline;
+}
+.hot-sauce img {
+	width: 28vw;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.magic-the-gathering img {
+	width: 18vw;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: -30px;
+	margin-bottom: -30px;
 }
