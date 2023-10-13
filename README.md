@@ -13,7 +13,7 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+This is a personal portfolio webpage created for the first code review assignment at Epicodus. It contains a headshot, my name, a brief introductory paragraph that talks about my employment and educational background. It also contains descriptions of my coding projects so far with links, and some of my hobbies with links to further explore my relationship with them.
 
 ## Setup/Installation Requirements
 
