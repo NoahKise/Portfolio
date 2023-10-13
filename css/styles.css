@@ -27,3 +27,18 @@ h2 {
   text-align: center;
   text-decoration: underline;
 }
+.project1 {
+  float: left;
+  width: 32vw;
+}
+.project2 {
+  float: left;
+  width: 32vw;
+}
+.project3 {
+  float: left;
+  width: 32vw;
+}
+.projects h3 {
+  text-align: center;
+}
