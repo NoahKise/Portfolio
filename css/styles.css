@@ -29,15 +29,29 @@ h2 {
 }
 .project1 {
   float: left;
-  width: 32vw;
+  width: 31vw;
+  border: 1px solid black;
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
 }
 .project2 {
   float: left;
-  width: 32vw;
+  width: 31vw;
+  border: 1px solid black;
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
 }
 .project3 {
   float: left;
-  width: 32vw;
+  width: 31vw;
+  border: 1px solid black;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
 }
 .projects h3 {
   text-align: center;
