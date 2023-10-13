@@ -43,7 +43,8 @@ h2 {
 	padding-left: 10px;
 	padding-right: 10px;
 	box-sizing: border-box;
-	box-shadow: 5px 5px 5px lightgrey;
+	box-shadow: 7px 7px 7px #5cfaff;
+	background-color: lightgray;
 }
 
 .project2 {
@@ -54,7 +55,8 @@ h2 {
 	padding-left: 10px;
 	padding-right: 10px;
 	box-sizing: border-box;
-	box-shadow: 5px 5px 5px lightgrey;
+	box-shadow: 7px 7px 7px #5cfaff;
+	background-color: lightgray;
 }
 
 .project3 {
@@ -64,7 +66,8 @@ h2 {
 	padding-left: 10px;
 	padding-right: 10px;
 	box-sizing: border-box;
-	box-shadow: 5px 5px 5px lightgrey;
+	box-shadow: 7px 7px 7px #5cfaff;
+	background-color: lightgray;
 }
 
 .projects h3 {
@@ -89,7 +92,8 @@ h2 {
 	border: 1px solid black;
 	margin-right: 10px;
 	box-sizing: border-box;
-	box-shadow: 5px 5px 5px lightgrey;
+	box-shadow: 7px 7px 7px #5cfaff;
+	background-color: lightgray;
 }
 
 .hot-sauce {
@@ -98,7 +102,8 @@ h2 {
 	border: 1px solid black;
 	margin-right: 10px;
 	box-sizing: border-box;
-	box-shadow: 5px 5px 5px lightgrey;
+	box-shadow: 7px 7px 7px #5cfaff;
+	background-color: lightgray;
 }
 
 .magic-the-gathering {
@@ -106,7 +111,8 @@ h2 {
 	width: 20vw;
 	border: 1px solid black;
 	box-sizing: border-box;
-	box-shadow: 5px 5px 5px lightgrey;
+	box-shadow: 7px 7px 7px #5cfaff;
+	background-color: lightgray;
 }
 
 .interests h3 {
