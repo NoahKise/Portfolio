@@ -13,7 +13,7 @@
 
 ## Description
 
-This is a personal portfolio webpage created for the first code review assignment at Epicodus. It contains a headshot, my name, a brief introductory paragraph that talks about my employment and educational background. It also contains descriptions of my coding projects so far with links, and some of my hobbies with links to further explore my relationship with them.
+This is a personal portfolio webpage created for the first code review assignment at Epicodus. It contains a headshot, my name, and a brief introductory paragraph that talks about my employment and educational background. It also contains descriptions of my coding projects so far with links, and some of my hobbies with links to further explore my relationship to them.
 
 ## Setup/Installation Requirements
 
@@ -22,7 +22,7 @@ This is a personal portfolio webpage created for the first code review assignmen
 
 ## Known Bugs
 
-* I was unable to style my embedded Bandcamp player in any meaningful way. I wanted to center it in its box and give it responsize size scaling, and I was unable to accomplish either. As such, certain viewport sizees may result in a sub-optimal display.
+* I was unable to style my embedded Bandcamp player in any meaningful way. I wanted to center it in its box and give it responsize size scaling, and I was unable to accomplish either. As such, certain viewport sizes may result in a sub-optimal display.
 
 
 ## License
