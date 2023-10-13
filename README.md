@@ -18,7 +18,7 @@ This is a personal portfolio webpage created for the first code review assignmen
 ## Setup/Installation Requirements
 
 * To view portfolio on the web, open a web broswer and type noahkise.github.io/portfolio into the navigation bar and press enter.
-* To view github repository containing code, open a web browser and type github.com/NoahKise/Portfolio/tree/main into the navigation bar and press enter.
+* To view github repository containing code, open a web browser and type github.com/NoahKise/portfolio/tree/main into the navigation bar and press enter.
 
 ## Known Bugs
 
