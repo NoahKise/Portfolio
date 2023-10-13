@@ -7,15 +7,15 @@
   width: 30vw;
 }
 .header {
-  border-top: 3vw solid rgba(120,245,244,1);
+  border-top: 3vw solid #5cfaff;
   text-align: center;
   font-family: didot, serif;
-  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(120,245,244,1) 0%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(180deg, #5cfaff 0%, white 100%);
 }
 .about-me {
   margin: 0 10vw 0 10vw;
   background-color: lightgray;
-  box-shadow: 10px 10px 10px rgba(120,245,244,1);
+  box-shadow: 10px 10px 10px #5cfaff;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 20px;
