@@ -6,7 +6,7 @@
   width: 30vw;
 }
 .header {
-  border-top: 3vw solid aqua;
+  border-top: 3vw solid rgba(120,245,244,1);
   text-align: center;
-  background-color: aqua;
+  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(120,245,244,1) 0%, rgba(255,255,255,1) 100%);
 }
