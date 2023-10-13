@@ -26,6 +26,7 @@ h2 {
   font-family: didot, serif;
   text-align: center;
   text-decoration: underline;
+  display: block;
 }
 .project1 {
   float: left;
