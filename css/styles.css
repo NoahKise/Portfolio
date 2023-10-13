@@ -1,12 +1,12 @@
 .header img {
   display: block;
-  padding-top: 3vw;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
   width: 30vw;
 }
 .header {
+  border-top: 3vw solid aqua;
   text-align: center;
   background-color: aqua;
 }
